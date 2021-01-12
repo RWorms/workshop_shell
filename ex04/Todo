@@ -1,0 +1,15 @@
+Create a script that takes act like a small calculator (one operation)
+
+Example:
+
+./script.sh 2 + 2
+"2+2 = 4"
+
+./script.sh 2 - 2
+"2-2 = 2"
+
+./script.sh 2 * 2
+"2*2 = 4"
+
+./script.sh 2 / 2
+"2/2 = 2"

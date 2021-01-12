@@ -1,0 +1,13 @@
+Create a script that take one string variable and print the string two times: Once in full caps, once with only the first letter as cap.
+If there's no variable print the default value null
+
+Example:
+./script.sh "chocolate"
+"Chocolate"
+"CHOCOLATE"
+
+
+Example:
+./script.sh
+"Null"
+"NULL"

@@ -1,0 +1,6 @@
+Create a script that takes a number and return a sentence in function of the number (erorr handling included)
+
+If the number is equal to 0: "Null"
+If the number is superior to 0: "Sup"
+If the number is inferior to 0: "Inferior"
+If the variable is empty or a sentence: "Error"

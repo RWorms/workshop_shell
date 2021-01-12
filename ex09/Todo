@@ -1,0 +1,22 @@
+BONUS
+Read a file with this format:
+
+FUNCTION_NAME
+VARIABLETYPE
+#end
+
+FileExample:
+testing
+int
+#end
+
+The script must then generate C or C++ code
+If we take the example from above:
+
+int testing(int var1)
+{
+    return (var1)
+}
+
+if there's multiple variables, must return the first one. If they all are int, must return the sum of the ints.
+If there's multiple function, must write each one of them.

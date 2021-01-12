@@ -1,0 +1,6 @@
+Create a script that takes a number and power it up to it's own power.
+
+Example:
+
+./script.sh 2
+"2^2 = 4"
